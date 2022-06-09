@@ -831,7 +831,7 @@ footer ul{
 }
 
 .img-hov img:hover{
-    transform: scale(1.2);
+    transform: scale(1.05);
     z-index: 10;
 }
 .gallary-modal{
