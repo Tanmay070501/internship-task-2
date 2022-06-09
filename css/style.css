@@ -22,6 +22,7 @@ html,body,header,main,section{
 }
 html,body{
     height: 100%;
+    overflow-x: hidden;
 }
 body{
     color: black;
@@ -831,7 +832,7 @@ footer ul{
 }
 
 .img-hov img:hover{
-    transform: scale(1.05);
+    transform: scale(1.2);
     z-index: 10;
 }
 .gallary-modal{
